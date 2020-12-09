@@ -1,0 +1,35 @@
+body{
+    background-color: #222;
+}
+
+form{
+    width: 500px;
+    height: 300px;
+    background-color: #333;
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    margin: 200px auto;
+}
+h1{
+   color: #fff;
+   font-family: monospace;
+   text-align: center;
+}
+
+label{
+    color: #fff;
+    font-size: 20px;
+    margin: 10px 0px;
+    font-family: monospace;
+}
+
+input{
+    padding: 10px;
+}
+
+.btn{
+    width: 200px;
+    margin: 20px auto;
+    cursor: pointer;
+}
